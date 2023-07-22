@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AkashPatilkulkarni
+- 👀 I’m interested in Data Science
+- 📫 How to reach me ...akashspk0@gmail.com
