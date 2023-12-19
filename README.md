@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AkashPatilkulkarni
-- 👀 I’m interested in Data Science
-- 📫 How to reach me ...akashspk0@gmail.com
+- 👀 I’m interested in Data Science, Machine Learning and AI. 
+- 📫 How to reach me -akashspk0@gmail.com or akashspk17@gmail.com
